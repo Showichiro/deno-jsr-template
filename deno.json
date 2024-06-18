@@ -1,0 +1,15 @@
+{
+  "imports": {
+  },
+  "name": "need-to-set-name",
+  "version": "need-to-set-version",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": [
+      "README.md",
+      "./index.ts",
+      "./mod.ts",
+      "deno.json"
+    ]
+  }
+}
